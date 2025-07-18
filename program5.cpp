@@ -11,7 +11,7 @@ int main()
      cin>>b;
  int choice;
  cout<<"1) Addition"<<endl<<"2) Subtraction"<<endl<<"3) Multiplication"<<endl<<"4) Quotient"<<endl<<"5) Remainder"<<endl;
- cout<<endl<<"enter your choice of lunch:"<<endl;
+ cout<<endl<<"enter your choice:"<<endl;
  cin>>choice;
  switch(choice)
  {
