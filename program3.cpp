@@ -13,15 +13,15 @@ int main()
     if(a>b)
     {
         if(a>c)
-        cout<<a<<" is th greatest number."<<endl;
+        cout<<a<<" is the greatest number."<<endl;
         else
-         cout<<c<<" is th greatest number."<<endl;
+         cout<<c<<" is the greatest number."<<endl;
     }
     else
     {
         if(b>c)
-         cout<<a<<" is th greatest number."<<endl;
+         cout<<a<<" is the greatest number."<<endl;
         else
-         cout<<c<<" is th greatest number."<<endl;
+         cout<<c<<" is the greatest number."<<endl;
     }
 }
